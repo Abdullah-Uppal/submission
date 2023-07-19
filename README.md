@@ -1,4 +1,4 @@
-# internship_assignment
+# submission
 
 A new Flutter project.
 
